@@ -40,4 +40,4 @@ Aquí puedes navegar por las diferentes áreas de conocimiento que voy documenta
 
 ### 📫 Contacto
 Si te interesa mi perfil o quieres comentar algo sobre el código:
-* **LinkedIn:** [Pablo Bermejo Valencia](https://www.linkedin.com/in/pablo-bermejo-valencia-b49080330/)
+* **LinkedIn:** [Pablo Bermejo Valencia](https://www.linkedin.com/in/pablo-bermejo-valencia-b3b9b83a3/)
