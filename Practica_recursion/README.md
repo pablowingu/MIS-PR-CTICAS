@@ -1,14 +1,3 @@
-# 🚀 Portafolio de Ingeniería de Software
-
-¡Hola! 👋 Soy **Pablo**, estudiante de Ingeniería de Software.
-Este repositorio documenta mi progreso y aprendizaje en algoritmos, estructuras de datos y desarrollo de software.
-
-## 🛠️ Tecnologías
-* **Lenguajes:** Java ☕, Python 🐍
-* **Herramientas:** Git, Eclipse, GitHub
-* **Enfoque:** Algoritmia, Optimización y Clean Code
-
----
 
 ## 📂 Proyecto Destacado: Optimización de Recursividad
 **Ubicación:** `/Practica_recursion/EjercicioT.java`
