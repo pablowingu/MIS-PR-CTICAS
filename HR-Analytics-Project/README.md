@@ -14,3 +14,4 @@ La empresa necesitaba consolidar dos fuentes de datos desconectadas (Empleados v
 ## 🚀 Resultados Clave
 * Se identificó que el departamento de **IT** consume la mayor parte del presupuesto de incentivos debido a su alto rendimiento.
 * Se detectaron ineficiencias en el departamento de **Ventas**, con un alto volumen de empleados sin evaluación registrada.
+![Gráfico de costes por departamento](./grafico_bonus.png)
