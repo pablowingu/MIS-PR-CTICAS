@@ -46,4 +46,5 @@ plt.xlabel('Departamento')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
 
 plt.show()
-![Gráfico de costes por departamento](./grafico_bonus.png)
+
+
